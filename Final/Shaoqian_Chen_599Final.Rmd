@@ -11,7 +11,7 @@ library(lubridate)
 library(ggmap)
 library(dplyr)
 library(readr)
-ggmap::register_google(key = "AIzaSyDjdKw8npxWHoH5eL85_OrfxTUSyf8Wxcg")
+ggmap::register_google(key = "GCP API Key")
 ```
 
 
